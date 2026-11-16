@@ -1,0 +1,21 @@
+order_id,product_id,quantity,order_date,customer_name,payment_method
+1,101,2,2025-06-01,Aarav Sharma,Cash
+2,102,1,2025-06-02,Sita Thapa,Card
+3,103,3,2025-06-03,Rohan Adhikari,Cash on Delivery
+4,104,1,2025-06-04,Priya Karki,eSewa
+5,105,5,2025-06-05,Bibek Gurung,Khalti
+6,106,2,2025-06-06,Anisha Rai,Card
+7,107,1,2025-06-07,Suman Shrestha,Cash
+8,108,4,2025-06-08,Nisha Lama,Cash on Delivery
+9,109,2,2025-06-09,Prakash KC,eSewa
+10,110,1,2025-06-10,Sabina Tamang,Khalti
+11,111,3,2025-06-11,Manish Bhandari,Card
+12,112,2,2025-06-12,Riya Poudel,Cash
+13,113,1,2025-06-13,Kiran Magar,Cash on Delivery
+14,114,2,2025-06-14,Asha Bhattarai,eSewa
+15,115,6,2025-06-15,Sagar Joshi,Khalti
+16,116,1,2025-06-16,Mina Ale,Card
+17,117,2,2025-06-17,Ramesh Yadav,Cash
+18,118,1,2025-06-18,Kabita Shahi,Cash on Delivery
+19,119,3,2025-06-19,Dipesh Oli,eSewa
+20,120,2,2025-06-20,Sarita Basnet,Khalti
